@@ -5,6 +5,9 @@ In other words, it creates a color plot where the colorbar is a ternary plot of 
 
 Run test_triangle to produce an example plot.
 
+This script was developped for creating figure 16 in Navarro et al., 2021:
+https://doi.org/10.1016/j.icarus.2021.114400
+
 ###################################
 
 Tested with matplotlib v3.3.4 and python v3.8.8
